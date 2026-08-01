@@ -1,0 +1,6 @@
+{
+  "name": "Royal Ludo",
+  "description": "A premium offline Royal Ludo game with 10 board themes, smooth animations, capture particle effects, fireworks victory, and smart AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

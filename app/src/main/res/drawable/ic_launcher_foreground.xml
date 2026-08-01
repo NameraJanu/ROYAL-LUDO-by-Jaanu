@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Board Frame -->
+    <path
+        android:fillColor="#333344"
+        android:pathData="M24,24h60v60h-60z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,26h56v56h-56z" />
+    
+    <!-- Red Corner (Top-Left) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M28,28h22v22h-22z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,32h14v14h-14z" />
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M37,37m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+
+    <!-- Green Corner (Top-Right) -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M58,28h22v22h-22z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,32h14v14h-14z" />
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M69,37m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+
+    <!-- Yellow Corner (Bottom-Right) -->
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M58,58h22v22h-22z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62,62h14v14h-14z" />
+    <path
+        android:fillColor="#FBC02D"
+        android:pathData="M69,71m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+
+    <!-- Blue Corner (Bottom-Left) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M28,58h22v22h-22z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,62h14v14h-14z" />
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M37,71m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+
+    <!-- Center Dice Square -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M48,48h12v12h-12z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,50h8v8h-8z" />
+    <!-- Dice dots for 5 -->
+    <path android:fillColor="#E53935" android:pathData="M51.5,51.5m-0.8,0a0.8,0.8 0 1,1 1.6,0a0.8,0.8 0 1,1 -1.6,0" />
+    <path android:fillColor="#4CAF50" android:pathData="M56.5,51.5m-0.8,0a0.8,0.8 0 1,1 1.6,0a0.8,0.8 0 1,1 -1.6,0" />
+    <path android:fillColor="#212121" android:pathData="M54,54m-0.8,0a0.8,0.8 0 1,1 1.6,0a0.8,0.8 0 1,1 -1.6,0" />
+    <path android:fillColor="#1E88E5" android:pathData="M51.5,56.5m-0.8,0a0.8,0.8 0 1,1 1.6,0a0.8,0.8 0 1,1 -1.6,0" />
+    <path android:fillColor="#FBC02D" android:pathData="M56.5,56.5m-0.8,0a0.8,0.8 0 1,1 1.6,0a0.8,0.8 0 1,1 -1.6,0" />
+</vector>
